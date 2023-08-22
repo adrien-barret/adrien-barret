@@ -1,16 +1,13 @@
 <h1 align="center">Hello, I'm Adrien Barret! 🚀🌐</h1>
+<h1 align="center"><img src="https://img.shields.io/badge/devops-0078D7?style=for-the-badge" />  <img src="https://img.shields.io/badge/SRE-0078D7?style=for-the-badge" /></h1>
 
 <p align="center">
-  <em>Site Reliability Engineer (SRE) with a passion for DevOps and Development</em>
-</p>
-
-<p align="center">
-  Specializing in <strong>Python</strong> and <strong>Go</strong>, I love diving into complex challenges and delivering scalable solutions.
+  <em>A Site Reliability Engineer by profession, a problem solver at heart. Passionate about technology, collaboration, and creating solutions that make an impact.</em>
 </p>
 
 ---
 
-## 🛠️ Tech Stack <img src="https://img.shields.io/badge/devops-0078D7?style=for-the-badge" />  <img src="https://img.shields.io/badge/SRE-0078D7?style=for-the-badge" />
+## 🛠️ My Playground
 
 <p align="center">
   <img src="https://img.shields.io/badge/K8S-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -29,21 +26,24 @@
   <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+---
+
+## 💡 What I Bring to the Table
+
+- **Problem Solving**: Regardless of the tool or language, I thrive on tackling challenges.
+- **Collaborative Development**: Fluent in Python, Go, and Rust among others.
+- **Infrastructure Mastery**: Managing robust systems with tools like K8S, Docker, and Terraform.
+- **Cloud Expertise**: Crafting solutions on Azure, Google Cloud, and beyond.
+- **Guidance & Coaching**: Empowering teams and optimizing workflows.
 
 ---
 
-## 💡 Expertise
+## 🖥️ Tailored Solutions
 
-- **Site Reliability**: Maintaining and optimizing scalable and reliable systems.
-- **Development**: Python, Go, Rust.
-- **Infrastructure**: K8S, Docker, Istio, Linux,
-- **Provisioning tools**: Terraform, Ansible.
-- **Cloud**: Azure, Google Cloud.
-- **CI/CD**: Github Actions, ArgoCD, Azure DevOps.
-- **Version Control**: Git, GitHub.
+Every company is unique. I provide bespoke application solutions, crafted to fit specific needs. Whether refining existing systems or innovating from scratch, I've got it covered.
 
 ---
 
-📫 **Reach Out to Me**
+📫 **Let's Connect**
 
-If you'd like to discuss a project, collaborate, or just chat, feel free to reach out!
+If you're curious about a project, seeking collaboration, or just wish to chat about tech and its possibilities, I'm here. Reach out anytime.
