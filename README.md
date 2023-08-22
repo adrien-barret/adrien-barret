@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Adrien Barret! 👋</h1>
+<h1 align="center">Hello, I'm Adrien Barret! 🚀🌐</h1>
 
 <p align="center">
   <em>Site Reliability Engineer (SRE) with a passion for DevOps and Development</em>
@@ -10,12 +10,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack <img src="https://img.shields.io/badge/devops-0078D7?style=for-the-badge" />  <img src="https://img.shields.io/badge/SRE-0078D7?style=for-the-badge" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/devops-0078D7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SRE-0078D7?style=for-the-badge" />
-
   <img src="https://img.shields.io/badge/K8S-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Istio-466bb0?style=for-the-badge&logo=istio&logoColor=white" />
