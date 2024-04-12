@@ -30,7 +30,7 @@
 ## 💡 What I Bring to the Table
 
 - **Problem Solving**: Regardless of the tool or language, I thrive on tackling challenges.
-- **Collaborative Development**: Fluent in Python, Go, and Rust among others.
+- **Collaborative Development**: Fluent in Python and Go among others.
 - **Infrastructure Mastery**: Managing robust systems with tools like K8S, Docker, and Terraform.
 - **Cloud Expertise**: Crafting solutions on Azure, Google Cloud, and beyond.
 - **Guidance & Coaching**: Empowering teams and optimizing workflows.
